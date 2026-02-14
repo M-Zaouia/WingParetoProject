@@ -1,10 +1,10 @@
 # WingParetoProject
 
-Mini projet Python : on explore **plein de formes d’ailes** au hasard, on estime leur performance, puis on garde les meilleures sous forme d’un **front de Pareto** (compromis).
+Mini projet Python : on explore **plein de formes d’ailes** au hasard, on estime leur performance, puis on garde les meilleures sous forme d’un **front de Pareto** .
 
 ---
 
-## Idée du projet (en mots simples)
+## Idée du projet 
 
 Une aile, c’est un compromis :
 - **moins de traînée (drag)** → avion plus efficace
