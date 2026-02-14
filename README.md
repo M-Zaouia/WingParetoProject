@@ -12,8 +12,7 @@ Une aile, c’est un compromis :
 
 Ici on compare les designs d’aile avec 2 critères :
 
-1) **CD_total** (à minimiser)  
-   Traînée totale =  
+1) **CD_total** (à minimiser)    
    - **CD_prof** : traînée “profil” (vient du profil/airfoil via une polar)  
    - **CDi** : traînée induite (vient du fait de produire de la portance avec une aile finie)
 
