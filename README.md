@@ -1,6 +1,6 @@
 # WingParetoProject
 
-Mini projet Python (débutant-friendly) : on explore **plein de formes d’ailes** au hasard, on estime leur performance, puis on garde les meilleures sous forme d’un **front de Pareto** (compromis).
+Mini projet Python : on explore **plein de formes d’ailes** au hasard, on estime leur performance, puis on garde les meilleures sous forme d’un **front de Pareto** (compromis).
 
 ---
 
